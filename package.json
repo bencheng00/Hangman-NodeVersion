@@ -1,0 +1,25 @@
+{
+  "name": "week11-hangman",
+  "version": "1.0.0",
+  "description": "Hangman for Week 11",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bencheng00/Week11-Hangman.git"
+  },
+  "keywords": [
+    "hangman"
+  ],
+  "author": "Ben Cheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bencheng00/Week11-Hangman/issues"
+  },
+  "homepage": "https://github.com/bencheng00/Week11-Hangman#readme",
+  "dependencies": {
+    "prompt": "^1.0.0"
+  }
+}
